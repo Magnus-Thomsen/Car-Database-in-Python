@@ -2,7 +2,7 @@
 
 This program is for a Python submission for school. We have been working with Python for a little more than a month.
 
-To start the program whe sould set up a database through SQLLite and Python. We should use the Create Table call from SQL to make a table in the database. 
+To start the program we sould set up a database through SQLLite and Python. We should use the Create Table call from SQL to make a table in the database. 
 
 The program should include the following:
 - Make a class named *Car* that includes the following variables:
